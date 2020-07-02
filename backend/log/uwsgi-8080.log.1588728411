@@ -1,0 +1,6 @@
+[pid: 9024|app: 0|req: 352/352] 156.96.155.243 () {30 vars in 567 bytes} [Wed May  6 01:26:37 2020] GET /phpMyAdmin-2.5.5-pl1/ => generated 95 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 353/353] 156.96.155.243 () {30 vars in 567 bytes} [Wed May  6 01:26:38 2020] GET /phpMyAdmin-2.5.6-rc1/ => generated 95 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 354/354] 156.96.155.243 () {30 vars in 567 bytes} [Wed May  6 01:26:42 2020] GET /phpMyAdmin-2.5.6-rc2/ => generated 95 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 355/355] 156.96.155.243 () {30 vars in 559 bytes} [Wed May  6 01:26:46 2020] GET /phpMyAdmin-2.5.6/ => generated 91 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 356/356] 156.96.155.243 () {30 vars in 559 bytes} [Wed May  6 01:26:51 2020] GET /phpMyAdmin-2.5.7/ => generated 91 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Wed May  6 01:26:51 2020 - logsize: 1097, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588728411...

@@ -1,0 +1,8 @@
+[pid: 9024|app: 0|req: 303/303] 112.193.170.204 () {18 vars in 236 bytes} [Tue May  5 19:12:46 2020] CONNECT www.voanews.com:443 => generated 93 bytes in 3522 msecs (HTTP/1.0 404) 3 headers in 100 bytes (2 switches on core 0)
+[pid: 9024|app: 0|req: 304/304] 112.193.170.204 () {28 vars in 427 bytes} [Tue May  5 19:12:49 2020] GET http://www.rfa.org/ => generated 92 bytes in 0 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 305/305] 112.193.170.204 () {28 vars in 448 bytes} [Tue May  5 19:12:49 2020] GET http://www.epochtimes.com/ => generated 99 bytes in 0 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+[pid: 9024|app: 0|req: 306/306] 94.141.61.96 () {18 vars in 193 bytes} [Tue May  5 19:41:34 2020] GET / => generated 74 bytes in 195 msecs (HTTP/1.1 404) 3 headers in 100 bytes (2 switches on core 0)
+Tue May  5 19:41:35 2020 - logsize: 1033, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588707695...

@@ -1,0 +1,11 @@
+{'errcode': 40029, 'errmsg': 'invalid code, hints: [ req_id: LiccCNNre-wWjKvA ]'}
+[pid: 9024|app: 0|req: 1/1] 120.236.177.42 () {36 vars in 748 bytes} [Tue May  5 09:24:24 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 394 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+20
+[pid: 9024|app: 0|req: 2/2] 120.236.177.42 () {40 vars in 796 bytes} [Tue May  5 09:24:24 2020] POST /api/v1.0/index/ => generated 12203 bytes in 5 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 3/3] 120.236.177.42 () {36 vars in 748 bytes} [Tue May  5 09:25:41 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 4 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+20
+[pid: 9024|app: 0|req: 4/4] 120.236.177.42 () {40 vars in 796 bytes} [Tue May  5 09:25:41 2020] POST /api/v1.0/index/ => generated 12203 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+20
+[pid: 9024|app: 0|req: 5/5] 120.236.177.42 () {40 vars in 796 bytes} [Tue May  5 09:25:47 2020] POST /api/v1.0/index/ => generated 12203 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 6/6] 120.236.177.42 () {36 vars in 748 bytes} [Tue May  5 09:25:47 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 4 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 09:25:48 2020 - logsize: 1392, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588670748...

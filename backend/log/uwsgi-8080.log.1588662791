@@ -1,0 +1,9 @@
+[pid: 7122|app: 0|req: 92/92] 120.236.177.42 () {40 vars in 807 bytes} [Tue May  5 06:23:56 2020] POST /api/v1.0/top_player/ => generated 39353 bytes in 18 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 93/93] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 06:24:28 2020] POST /api/v1.0/news_detail/ => generated 9473 bytes in 13 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 94/94] 47.94.39.226 () {18 vars in 193 bytes} [Tue May  5 06:55:52 2020] GET / => generated 1941 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[pid: 7122|app: 0|req: 95/95] 80.82.70.187 () {24 vars in 386 bytes} [Tue May  5 07:09:22 2020] GET http://www.baidu.com/cache/global/img/gs.gif => generated 1738 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 7122|app: 0|req: 96/96] 127.0.0.1 () {34 vars in 919 bytes} [Tue May  5 07:13:10 2020] GET /favicon.ico => generated 1969 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 07:13:11 2020 - logsize: 1184, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588662791...

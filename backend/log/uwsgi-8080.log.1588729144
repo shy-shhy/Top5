@@ -1,0 +1,9 @@
+[pid: 9024|app: 0|req: 411/411] 156.96.155.243 () {30 vars in 541 bytes} [Wed May  6 01:29:28 2020] GET /pma2005/ => generated 82 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 412/412] 156.96.155.243 () {30 vars in 547 bytes} [Wed May  6 01:29:33 2020] GET /phpmanager/ => generated 85 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 413/413] 156.96.155.243 () {30 vars in 549 bytes} [Wed May  6 01:29:33 2020] GET /php-myadmin/ => generated 86 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 414/414] 156.96.155.243 () {30 vars in 549 bytes} [Wed May  6 01:29:37 2020] GET /phpmy-admin/ => generated 86 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+Wed May  6 01:39:04 2020 - logsize: 1059, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588729144...

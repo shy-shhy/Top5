@@ -1,0 +1,11 @@
+[pid: 9024|app: 0|req: 95/95] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:09 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 96/96] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:09 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 97/97] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:09 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 98/98] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:09 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 99/99] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:10 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 100/100] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:10 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 101/101] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:10 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 102/102] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:10 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 103/103] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:10 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 104/104] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:43:11 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Tue May  5 09:43:11 2020 - logsize: 2000, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588671791...

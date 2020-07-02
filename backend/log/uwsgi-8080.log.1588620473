@@ -1,0 +1,11 @@
+{'errcode': 40029, 'errmsg': 'invalid code, hints: [ req_id: nbcconTge-B5lzaA ]'}
+[pid: 7122|app: 0|req: 1/1] 120.236.177.42 () {36 vars in 748 bytes} [Mon May  4 19:27:48 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 376 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+20
+[pid: 7122|app: 0|req: 2/2] 120.236.177.42 () {40 vars in 796 bytes} [Mon May  4 19:27:48 2020] POST /api/v1.0/index/ => generated 12203 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+40
+[pid: 7122|app: 0|req: 3/3] 120.236.177.42 () {40 vars in 796 bytes} [Mon May  4 19:27:50 2020] POST /api/v1.0/index/ => generated 12607 bytes in 7 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+60
+[pid: 7122|app: 0|req: 4/4] 120.236.177.42 () {40 vars in 796 bytes} [Mon May  4 19:27:51 2020] POST /api/v1.0/index/ => generated 12277 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+80
+[pid: 7122|app: 0|req: 5/5] 120.236.177.42 () {40 vars in 796 bytes} [Mon May  4 19:27:52 2020] POST /api/v1.0/index/ => generated 12547 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+Mon May  4 19:27:53 2020 - logsize: 1174, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588620473...

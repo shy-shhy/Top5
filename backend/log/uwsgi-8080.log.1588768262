@@ -1,0 +1,8 @@
+[pid: 9024|app: 0|req: 437/437] 178.205.254.22 () {18 vars in 195 bytes} [Wed May  6 10:04:45 2020] GET / => generated 74 bytes in 190 msecs (HTTP/1.1 404) 3 headers in 100 bytes (2 switches on core 0)
+uwsgi_proto_http_parser() -> client closed connection
+[pid: 9024|app: 0|req: 438/438] 106.15.52.246 () {18 vars in 194 bytes} [Wed May  6 11:11:58 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.0 404) 3 headers in 100 bytes (1 switches on core 0)
+uwsgi_proto_http_parser() -> client closed connection
+[pid: 9024|app: 0|req: 439/439] 156.96.150.36 () {26 vars in 334 bytes} [Wed May  6 12:03:18 2020] GET /ide.html => generated 82 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 440/440] 80.82.70.187 () {24 vars in 386 bytes} [Wed May  6 12:11:03 2020] GET http://www.baidu.com/cache/global/img/gs.gif => generated 117 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 101 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 441/441] 120.236.177.42 () {36 vars in 748 bytes} [Wed May  6 12:31:02 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 4 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+Wed May  6 12:31:02 2020 - logsize: 1180, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588768262...

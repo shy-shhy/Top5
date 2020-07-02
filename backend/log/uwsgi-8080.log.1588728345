@@ -1,0 +1,7 @@
+[pid: 9024|app: 0|req: 330/330] 156.96.155.243 () {30 vars in 581 bytes} [Wed May  6 01:25:37 2020] GET /SQLiteManager-1.2.4/main.php => generated 102 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 101 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 331/331] 156.96.155.243 () {30 vars in 573 bytes} [Wed May  6 01:25:38 2020] GET /agSearch/SQlite/main.php => generated 98 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 332/332] 156.96.155.243 () {30 vars in 547 bytes} [Wed May  6 01:25:39 2020] GET /phpmyadmin/ => generated 85 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 333/333] 156.96.155.243 () {30 vars in 547 bytes} [Wed May  6 01:25:40 2020] GET /phpMyAdmin/ => generated 85 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 334/334] 156.96.155.243 () {30 vars in 533 bytes} [Wed May  6 01:25:44 2020] GET /PMA/ => generated 78 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 335/335] 156.96.155.243 () {30 vars in 533 bytes} [Wed May  6 01:25:45 2020] GET /pma/ => generated 78 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Wed May  6 01:25:45 2020 - logsize: 1283, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588728345...

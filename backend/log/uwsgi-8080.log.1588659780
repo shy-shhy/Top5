@@ -1,0 +1,8 @@
+Not Found: /
+[pid: 7122|app: 0|req: 71/71] 127.0.0.1 () {26 vars in 380 bytes} [Tue May  5 05:35:30 2020] GET / => generated 1918 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 72/72] 120.236.177.42 () {40 vars in 813 bytes} [Tue May  5 06:22:51 2020] POST /api/v1.0/detail_praise/ => generated 26 bytes in 5 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+100
+[pid: 7122|app: 0|req: 73/73] 120.236.177.42 () {40 vars in 796 bytes} [Tue May  5 06:22:54 2020] POST /api/v1.0/index/ => generated 12537 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 74/74] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 06:22:55 2020] POST /api/v1.0/news_detail/ => generated 10422 bytes in 32 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 75/75] 120.236.177.42 () {40 vars in 813 bytes} [Tue May  5 06:23:00 2020] POST /api/v1.0/detail_praise/ => generated 26 bytes in 7 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+Tue May  5 06:23:00 2020 - logsize: 1097, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588659780...

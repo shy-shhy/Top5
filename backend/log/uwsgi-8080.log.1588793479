@@ -1,0 +1,9 @@
+[pid: 9024|app: 0|req: 474/474] 101.133.226.161 () {36 vars in 444 bytes} [Wed May  6 19:28:47 2020] OPTIONS sip:nm => generated 80 bytes in 1 msecs (SIP/2.0 404) 3 headers in 99 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 475/475] 101.133.226.161 () {18 vars in 207 bytes} [Wed May  6 19:28:51 2020] GET /?CAVIT => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+[pid: 9024|app: 0|req: 476/476] 101.133.226.161 () {26 vars in 432 bytes} [Wed May  6 19:31:13 2020] POST /sdk => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 477/477] 101.133.226.161 () {24 vars in 452 bytes} [Wed May  6 19:31:18 2020] GET /nmaplowercheck1588793457 => generated 98 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 478/478] 101.133.226.161 () {24 vars in 414 bytes} [Wed May  6 19:31:18 2020] GET /HNAP1 => generated 79 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 479/479] 101.133.226.161 () {24 vars in 424 bytes} [Wed May  6 19:31:19 2020] GET /evox/about => generated 84 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Wed May  6 19:31:19 2020 - logsize: 1370, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588793479...

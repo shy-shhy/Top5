@@ -1,0 +1,11 @@
+Not Found: /
+[pid: 7122|app: 0|req: 56/56] 127.0.0.1 () {26 vars in 326 bytes} [Tue May  5 01:38:08 2020] GET / => generated 1918 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 57/57] 47.97.10.19 () {18 vars in 192 bytes} [Tue May  5 01:43:45 2020] GET / => generated 1941 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /Telerik.Web.UI.WebResource.axd
+[pid: 7122|app: 0|req: 58/58] 127.0.0.1 () {28 vars in 489 bytes} [Tue May  5 02:11:46 2020] GET /Telerik.Web.UI.WebResource.axd?type=rau => generated 2035 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /goform/webLogin
+[pid: 7122|app: 0|req: 59/59] 127.0.0.1 () {40 vars in 710 bytes} [Tue May  5 02:16:41 2020] POST /goform/webLogin => generated 1982 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 60/60] 45.181.234.5 () {24 vars in 372 bytes} [Tue May  5 02:24:14 2020] GET / => generated 1932 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 02:24:15 2020 - logsize: 1145, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588645455...

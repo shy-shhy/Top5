@@ -1,0 +1,12 @@
+[pid: 9024|app: 0|req: 466/466] 188.212.65.253 () {24 vars in 381 bytes} [Wed May  6 15:05:23 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 467/467] 188.212.65.253 () {24 vars in 374 bytes} [Wed May  6 15:05:23 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+[pid: 9024|app: 0|req: 468/468] 5.235.188.202 () {24 vars in 380 bytes} [Wed May  6 19:15:05 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 469/469] 101.133.226.161 () {18 vars in 200 bytes} [Wed May  6 19:27:59 2020] OPTIONS / => generated 74 bytes in 1 msecs (HTTP/1.0 404) 3 headers in 100 bytes (1 switches on core 0)
+Wed May  6 19:28:00 2020 - logsize: 1182, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588793280...

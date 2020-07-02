@@ -1,0 +1,39 @@
+[uwsgi]
+
+chdir		= /root/jarvis/deployment/dongqiudi
+module		= dongqiudi.wsgi
+http-socket 	=:8080
+master		=true
+procesess	=4
+threads		=1
+vacuum		=true
+
+
+
+
+#backend run uwsgi
+
+daemonize	= %(chdir)/log/uwsgi-8080.log
+log-maxsize	=1024000000
+pidfile		=%(chdir)/pid/uwsgi-8080.pid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

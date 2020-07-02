@@ -1,0 +1,10 @@
+[pid: 9024|app: 0|req: 27/27] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:27:58 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 28/28] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:27:59 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 29/29] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:28:00 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 30/30] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:28:01 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 31/31] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:28:01 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 32/32] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:28:01 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 33/33] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:28:01 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 34/34] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:28:01 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 35/35] 120.236.177.42 () {36 vars in 1034 bytes} [Tue May  5 09:28:02 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Tue May  5 09:28:02 2020 - logsize: 1791, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588670882...

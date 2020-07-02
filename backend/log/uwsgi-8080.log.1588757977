@@ -1,0 +1,10 @@
+[pid: 9024|app: 0|req: 432/432] 120.236.177.42 () {36 vars in 748 bytes} [Wed May  6 09:39:30 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 4 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+20
+[pid: 9024|app: 0|req: 433/433] 120.236.177.42 () {40 vars in 796 bytes} [Wed May  6 09:39:30 2020] POST /api/v1.0/index/ => generated 12203 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+20
+[pid: 9024|app: 0|req: 434/434] 120.236.177.42 () {40 vars in 796 bytes} [Wed May  6 09:39:36 2020] POST /api/v1.0/index/ => generated 12203 bytes in 7 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 435/435] 120.236.177.42 () {36 vars in 748 bytes} [Wed May  6 09:39:36 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 4 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+{'code': '021Bl5BM0pO2h82RnizM0IM6BM0Bl5B2', 'nickname': '鬼面摩咖', 'avatarUrl': 'https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqXEgVS72kWucKk8XibicQlspRySDMWicCBfibgEbYQHpHbicVOjp7vlXIib0AxPicJ65gstwThJkEibgRTTQ/132', 'city': 'Guangzhou', 'gender': 1, 'province': 'Guangdong'}
+get openid:  None
+[pid: 9024|app: 0|req: 436/436] 120.236.177.42 () {40 vars in 805 bytes} [Wed May  6 09:39:36 2020] POST /api/v1.0/authorize/ => generated 11 bytes in 200 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+Wed May  6 09:39:37 2020 - logsize: 1408, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588757977...

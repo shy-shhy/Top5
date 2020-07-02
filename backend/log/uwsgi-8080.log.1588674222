@@ -1,0 +1,7 @@
+[pid: 9024|app: 0|req: 221/221] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 10:15:24 2020] POST /api/v1.0/news_detail/ => generated 8447 bytes in 13 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+80
+[pid: 9024|app: 0|req: 222/222] 120.236.177.42 () {40 vars in 796 bytes} [Tue May  5 10:15:59 2020] POST /api/v1.0/index/ => generated 12547 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 223/223] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 10:16:00 2020] POST /api/v1.0/news_detail/ => generated 12829 bytes in 16 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 224/224] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 10:20:27 2020] POST /api/v1.0/news_detail/ => generated 12301 bytes in 17 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 225/225] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 10:23:41 2020] POST /api/v1.0/news_detail/ => generated 9042 bytes in 17 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 10:23:42 2020 - logsize: 1124, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588674222...

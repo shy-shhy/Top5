@@ -1,0 +1,7 @@
+[pid: 7122|app: 0|req: 86/86] 120.236.177.42 () {36 vars in 746 bytes} [Tue May  5 06:23:30 2020] GET /api/v1.0/scheduler/ => generated 37318 bytes in 12 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 87/87] 120.236.177.42 () {40 vars in 806 bytes} [Tue May  5 06:23:32 2020] POST /api/v1.0/score_info/ => generated 7483 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 88/88] 120.236.177.42 () {40 vars in 807 bytes} [Tue May  5 06:23:51 2020] POST /api/v1.0/top_player/ => generated 39353 bytes in 41 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 89/89] 120.236.177.42 () {40 vars in 807 bytes} [Tue May  5 06:23:53 2020] POST /api/v1.0/top_player/ => generated 5995 bytes in 8 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 90/90] 120.236.177.42 () {40 vars in 807 bytes} [Tue May  5 06:23:54 2020] POST /api/v1.0/top_player/ => generated 4634 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 7122|app: 0|req: 91/91] 120.236.177.42 () {40 vars in 807 bytes} [Tue May  5 06:23:55 2020] POST /api/v1.0/top_player/ => generated 5995 bytes in 7 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 06:23:55 2020 - logsize: 1328, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588659835...

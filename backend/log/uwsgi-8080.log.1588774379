@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/wsgi.py", line 145, in __call__
+    request = self.request_class(environ)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/wsgi.py", line 86, in __init__
+    self.method = environ['REQUEST_METHOD'].upper()
+KeyError: 'REQUEST_METHOD'
+[pid: 9024|app: 0|req: 457/457] 106.14.80.184 () {8 vars in 100 bytes} [Wed May  6 14:11:35 2020]   => generated 0 bytes in 0 msecs ( 500) 0 headers in 0 bytes (0 switches on core 0)
+[pid: 9024|app: 0|req: 458/458] 106.14.80.184 () {36 vars in 442 bytes} [Wed May  6 14:12:04 2020] OPTIONS sip:nm => generated 80 bytes in 1 msecs (SIP/2.0 404) 3 headers in 99 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 459/459] 106.14.80.184 () {18 vars in 205 bytes} [Wed May  6 14:12:09 2020] GET /?CAVIT => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 460/460] 106.14.80.184 () {26 vars in 430 bytes} [Wed May  6 14:12:59 2020] POST /sdk => generated 77 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Wed May  6 14:12:59 2020 - logsize: 1152, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588774379...

@@ -1,0 +1,11 @@
+Not Found: /
+[pid: 7122|app: 0|req: 46/46] 127.0.0.1 () {28 vars in 318 bytes} [Mon May  4 21:13:24 2020] GET / => generated 1918 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 47/47] 13.234.38.53 () {26 vars in 311 bytes} [Mon May  4 21:14:12 2020] GET / => generated 1932 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /http:/www.baidu.com/cache/global/img/gs.gif
+[pid: 7122|app: 0|req: 48/48] 80.82.70.187 () {24 vars in 386 bytes} [Mon May  4 21:27:49 2020] GET http://www.baidu.com/cache/global/img/gs.gif => generated 1738 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 49/49] 183.136.225.46 () {26 vars in 375 bytes} [Mon May  4 22:14:14 2020] GET / => generated 1932 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 50/50] 183.136.225.46 () {26 vars in 375 bytes} [Mon May  4 22:15:04 2020] GET / => generated 1932 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Mon May  4 22:15:05 2020 - logsize: 1142, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588630505...

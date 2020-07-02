@@ -1,0 +1,9 @@
+[pid: 9024|app: 0|req: 296/296] 74.82.47.5 () {20 vars in 218 bytes} [Tue May  5 15:44:56 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 297/297] 196.52.43.95 () {22 vars in 333 bytes} [Tue May  5 15:54:24 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.0 404) 3 headers in 100 bytes (1 switches on core 0)
+uwsgi_proto_http_parser() -> client closed connection
+[pid: 9024|app: 0|req: 298/298] 80.82.70.187 () {24 vars in 386 bytes} [Tue May  5 16:49:13 2020] GET http://www.baidu.com/cache/global/img/gs.gif => generated 117 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 101 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 299/299] 47.97.16.6 () {18 vars in 191 bytes} [Tue May  5 18:48:58 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.0 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 300/300] 112.193.170.204 () {28 vars in 430 bytes} [Tue May  5 19:12:46 2020] GET http://www.bing.com/ => generated 93 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 301/301] 112.193.170.204 () {28 vars in 433 bytes} [Tue May  5 19:12:46 2020] GET http://www.baidu.com/ => generated 94 bytes in 0 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 302/302] 112.193.170.204 () {28 vars in 439 bytes} [Tue May  5 19:12:46 2020] GET http://wujieliulan.com/ => generated 96 bytes in 0 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Tue May  5 19:12:47 2020 - logsize: 1550, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588705967...

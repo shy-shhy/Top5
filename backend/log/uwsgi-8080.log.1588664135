@@ -1,0 +1,11 @@
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+uwsgi_proto_http_parser() -> client closed connection
+{'errcode': 40029, 'errmsg': 'invalid code, hints: [ req_id: rhcconTge-2jzFnA ]'}
+[pid: 8536|app: 0|req: 1/1] 120.236.177.42 () {40 vars in 813 bytes} [Tue May  5 07:35:22 2020] POST /api/v1.0/detail_praise/ => generated 26 bytes in 358 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+180
+[pid: 8536|app: 0|req: 2/2] 120.236.177.42 () {40 vars in 796 bytes} [Tue May  5 07:35:25 2020] POST /api/v1.0/index/ => generated 13372 bytes in 35 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+[pid: 8536|app: 0|req: 3/3] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 07:35:27 2020] POST /api/v1.0/news_detail/ => generated 8246 bytes in 18 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 8536|app: 0|req: 4/4] 120.236.177.42 () {40 vars in 809 bytes} [Tue May  5 07:35:33 2020] POST /api/v1.0/news_detail/ => generated 10368 bytes in 729 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+Tue May  5 07:35:35 2020 - logsize: 1184, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588664135...

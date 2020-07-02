@@ -1,0 +1,11 @@
+Not Found: /stager32
+[pid: 7122|app: 0|req: 66/66] 127.0.0.1 () {24 vars in 314 bytes} [Tue May  5 04:56:13 2020] GET /stager32 => generated 1960 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /stager64
+[pid: 7122|app: 0|req: 67/67] 127.0.0.1 () {24 vars in 314 bytes} [Tue May  5 04:56:13 2020] GET /stager64 => generated 1960 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 68/68] 127.0.0.1 () {26 vars in 400 bytes} [Tue May  5 05:03:13 2020] GET / => generated 1918 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 69/69] 198.108.66.240 () {26 vars in 313 bytes} [Tue May  5 05:14:21 2020] GET / => generated 1932 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /hudson
+[pid: 7122|app: 0|req: 70/70] 127.0.0.1 () {28 vars in 330 bytes} [Tue May  5 05:34:44 2020] GET /hudson => generated 1954 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 05:34:45 2020 - logsize: 1089, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588656885...

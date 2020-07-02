@@ -1,0 +1,8 @@
+[pid: 9024|app: 0|req: 415/415] 27.74.235.26 () {18 vars in 193 bytes} [Wed May  6 02:14:31 2020] GET / => generated 74 bytes in 131 msecs (HTTP/1.1 404) 3 headers in 100 bytes (2 switches on core 0)
+[pid: 9024|app: 0|req: 416/416] 139.162.111.98 () {24 vars in 319 bytes} [Wed May  6 02:24:21 2020] GET / => generated 74 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 417/417] 80.82.70.187 () {24 vars in 386 bytes} [Wed May  6 02:30:59 2020] GET http://www.baidu.com/cache/global/img/gs.gif => generated 117 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 101 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 418/418] 198.211.110.191 () {32 vars in 443 bytes} [Wed May  6 03:44:35 2020] POST /tmUnblock.cgi => generated 87 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 419/419] 120.236.177.42 () {36 vars in 748 bytes} [Wed May  6 09:37:03 2020] GET /api/v1.0/slide_show/ => generated 2796 bytes in 5 msecs (HTTP/1.1 200) 3 headers in 102 bytes (1 switches on core 0)
+20
+[pid: 9024|app: 0|req: 420/420] 120.236.177.42 () {40 vars in 796 bytes} [Wed May  6 09:37:03 2020] POST /api/v1.0/index/ => generated 12203 bytes in 6 msecs (HTTP/1.1 200) 3 headers in 103 bytes (1 switches on core 0)
+Wed May  6 09:37:04 2020 - logsize: 1301, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588757824...

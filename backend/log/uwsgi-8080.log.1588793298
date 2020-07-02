@@ -1,0 +1,11 @@
+[pid: 9024|app: 0|req: 470/470] 101.133.226.161 () {18 vars in 200 bytes} [Wed May  6 19:28:05 2020] OPTIONS / => generated 74 bytes in 1 msecs (RTSP/1.0 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 471/471] 101.133.226.161 () {18 vars in 258 bytes} [Wed May  6 19:28:11 2020] GET /nice%20ports%2C/Tri%6Eity.txt%2ebak => generated 101 bytes in 1 msecs (HTTP/1.0 404) 3 headers in 101 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 472/472] 101.133.226.161 () {18 vars in 219 bytes} [Wed May  6 19:28:14 2020]  / => generated 74 bytes in 1 msecs (HTTP/1.0 404) 3 headers in 100 bytes (1 switches on core 0)
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/wsgi.py", line 145, in __call__
+    request = self.request_class(environ)
+  File "/usr/local/lib/python3.6/site-packages/django/core/handlers/wsgi.py", line 86, in __init__
+    self.method = environ['REQUEST_METHOD'].upper()
+KeyError: 'REQUEST_METHOD'
+[pid: 9024|app: 0|req: 473/473] 101.133.226.161 () {8 vars in 102 bytes} [Wed May  6 19:28:17 2020]   => generated 0 bytes in 0 msecs ( 500) 0 headers in 0 bytes (0 switches on core 0)
+Wed May  6 19:28:18 2020 - logsize: 1182, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588793298...

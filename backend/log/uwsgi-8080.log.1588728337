@@ -1,0 +1,6 @@
+[pid: 9024|app: 0|req: 325/325] 156.96.155.243 () {30 vars in 569 bytes} [Wed May  6 01:25:26 2020] GET /SQLiteManager/main.php => generated 96 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 326/326] 156.96.155.243 () {30 vars in 555 bytes} [Wed May  6 01:25:31 2020] GET /SQLite/main.php => generated 89 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 327/327] 156.96.155.243 () {30 vars in 555 bytes} [Wed May  6 01:25:32 2020] GET /SQlite/main.php => generated 89 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 328/328] 156.96.155.243 () {30 vars in 541 bytes} [Wed May  6 01:25:32 2020] GET /main.php => generated 82 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 329/329] 156.96.155.243 () {30 vars in 645 bytes} [Wed May  6 01:25:37 2020] GET /test/sqlite/SQLiteManager-1.2.0/SQLiteManager-1.2.0/main.php => generated 134 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 101 bytes (1 switches on core 0)
+Wed May  6 01:25:37 2020 - logsize: 1121, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588728337...

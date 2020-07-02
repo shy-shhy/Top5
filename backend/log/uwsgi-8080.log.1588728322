@@ -1,0 +1,7 @@
+[pid: 9024|app: 0|req: 319/319] 156.96.155.243 () {30 vars in 584 bytes} [Wed May  6 01:25:11 2020] GET http://www.msftncsi.com/ncsi.txt => generated 105 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 101 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 320/320] 156.96.155.243 () {30 vars in 537 bytes} [Wed May  6 01:25:12 2020] GET /HNAP1/ => generated 80 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 321/321] 156.96.155.243 () {30 vars in 551 bytes} [Wed May  6 01:25:16 2020] GET /hudson/script => generated 87 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 322/322] 156.96.155.243 () {30 vars in 537 bytes} [Wed May  6 01:25:17 2020] GET /script => generated 80 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 323/323] 156.96.155.243 () {30 vars in 555 bytes} [Wed May  6 01:25:21 2020] GET /sqlite/main.php => generated 89 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 9024|app: 0|req: 324/324] 156.96.155.243 () {30 vars in 569 bytes} [Wed May  6 01:25:22 2020] GET /sqlitemanager/main.php => generated 96 bytes in 1 msecs (HTTP/1.1 404) 3 headers in 100 bytes (1 switches on core 0)
+Wed May  6 01:25:22 2020 - logsize: 1294, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588728322...

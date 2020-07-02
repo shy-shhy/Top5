@@ -1,0 +1,11 @@
+Not Found: /Telerik.Web.UI.WebResource.axd
+[pid: 7122|app: 0|req: 61/61] 128.14.134.134 () {26 vars in 485 bytes} [Tue May  5 02:42:47 2020] GET /Telerik.Web.UI.WebResource.axd?type=rau => generated 2049 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 62/62] 186.226.219.125 () {24 vars in 375 bytes} [Tue May  5 03:09:56 2020] GET / => generated 1932 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 63/63] 127.0.0.1 () {22 vars in 232 bytes} [Tue May  5 03:30:50 2020] GET / => generated 1918 bytes in 2 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 64/64] 198.108.66.240 () {26 vars in 313 bytes} [Tue May  5 04:49:38 2020] GET / => generated 1932 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7122|app: 0|req: 65/65] 93.41.157.120 () {24 vars in 373 bytes} [Tue May  5 04:52:17 2020] GET / => generated 1932 bytes in 2 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Tue May  5 04:52:18 2020 - logsize: 1129, triggering rotation to /root/jarvis/deployment/dongqiudi/log/uwsgi-8080.log.1588654338...
